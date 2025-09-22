@@ -1,4 +1,4 @@
-# GAN AI Notebook
+# GEN AI Notebook
 
 This repository contains a Google Colab notebook focused on Generative Adversarial Networks (GAN) for AI. The notebook explores various aspects, including RAG with LLAMAIndex, Lanchain, Python, OpenAI, and GAN AI codes.
 
